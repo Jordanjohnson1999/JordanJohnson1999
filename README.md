@@ -1,5 +1,5 @@
 
-# Hi there, I’m Seneca
+# Hi there, I’m Jordan Johnson (Seneca)
 
 **Self-taught coder focused on cybersecurity, learning by breaking, building, and fixing.**  
 Currently working in Python & Linux.
