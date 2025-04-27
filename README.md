@@ -20,5 +20,9 @@ I'm solving one LeetCode problem a day to sharpen my Python skills and build cod
 - `daily_leet1.py` - Longest Common Prefix
 - `daily_leet2.py` - Valid Parentheses
 - `daily_leet3.py` - Valid Anagram
+- `daily_leet4.py` - Two Sum
+- `daily_leet5.py` - Sum of Two Integers
+- `daily_leet6.py` - Merge Two Sorted Lists
+- `daily_leet7.py` - Find Maximum Value
 
 *More coming soon...*
