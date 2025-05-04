@@ -37,6 +37,6 @@ I'm solving one LeetCode problem a day to sharpen my Python skills and build cod
 - `daily_leet7.py` - Find Maximum Value
 
 ## About Me
-I'm a self-driven coder passionate about cybersecurity, scripting, and building real-world solutions. I'm committed to lifelong learning, continuously improving my technical skills through daily practice, open-source contributions, and personal projects. My goal is to grow into a prefessional cybersecurity engineer or Python devoloper, Focused on creating secure, efficient systems. I believe consistency, curiosity, and craftsmanship are the keys to mastering this craft.
+I'm a self-driven coder passionate about cybersecurity, scripting, and building real-world solutions. I'm committed to lifelong learning, continuously improving my technical skills through daily practice, open-source contributions, and personal projects. My goal is to grow into a professional cybersecurity engineer or Python devoloper, Focused on creating secure, efficient systems. I believe consistency, curiosity, and craftsmanship are the keys to mastering this craft.
 
 *More coming soon...*
