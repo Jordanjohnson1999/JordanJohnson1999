@@ -61,16 +61,29 @@ Checkout my repos to see them in action.
 ---
 
 ## TryHackMe Progress
-I've completed 14 beginner-level rooms so far, focusing on Linux, networking, and foundational Red Team concepts.
+I've completed **43+ TryHackMe rooms**, focused on building strong fundamentals for entry-level security and SOC roles.
 
-Notable rooms completed:
-- Linux Fundamentals (Part 1 & 2)
-- Offensive Security Intro
-- Frames and Packets
-- OSI Models
-- DNS in Detail
-- HTTP in Detail
+**Primary focus areas:**
+- SOC workflows, alert triage, and log analysis (Splunk, Elastic, SEIM)
+- Networking fundamentals (OSI model, DNS, HTTP, packets, LANs)
+- Linux and Window system fundamentals
+- Threat intelligence and defensive security frameworks
+
+**Notable rooms completed:**
+- Splunk: The Basics
+- Intorduction to SEIM
+- Alert Triage with ELastic
+- ItsyBitsy (ELK-based incident investigation)
+- Juniour Security Analyst Intro
 - Defensive Security Intro
+- Linux Fundamentals (part 1-3)
+- Windows Fundamentals (1-3)
+- OSI Models, DNS in Detail, HTTP in Detail
+- Pyramid of Pain, Diamond Model, Cyber Kill Chain, MITRE
+
+I prioritize deep understanding of core concepts over rushing advanced content, with the goal of analyzing alerts, understanding systems behaviour, and building my own security-focused tools.
+
+
 
 Each of these labs helped reinforce the basics i need to build my own tools from scripts. Rather than rush through advanced rooms, I'm using every lab as a launchpad for deeper hands-on learning.
 
@@ -80,7 +93,7 @@ Each of these labs helped reinforce the basics i need to build my own tools from
 Open to feedback, mentorship, or collaboration on open-source Red Team tools.
 
 - GitHub: You're already here
-- Email: jj.cyber.dev@hotmail.com
+- Email: jordan.johnson1999@hotmail.com
 - TryHackMe: jordan.johnson19
 
 Let's connect, learn, and build something worthwhile.
