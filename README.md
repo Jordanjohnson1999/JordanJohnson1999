@@ -72,7 +72,7 @@ I've completed **43+ TryHackMe rooms**, focused on building strong fundamentals 
 **Notable rooms completed:**
 - Splunk: The Basics
 - Intorduction to SEIM
-- Alert Triage with ELastic
+- Alert Triage with Elastic
 - ItsyBitsy (ELK-based incident investigation)
 - Juniour Security Analyst Intro
 - Defensive Security Intro
