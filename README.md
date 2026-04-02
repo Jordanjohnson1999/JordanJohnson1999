@@ -1,4 +1,4 @@
-# Hi there, I'm Jordan Johnson (Seneca)
+# Hi there, I'm Jordan Johnson
 
 ## Profile Summary
 Self-taught coder specializing in Python, Linux, and cybersecurity.
